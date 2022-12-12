@@ -1,8 +1,8 @@
 {
-  "Title": "Razor Basics",
+  "Title": "Networking 01",
   "Type": "game",
   "Org": "local",
-  "Ident": "razor_basics",
+  "Ident": "networking_01",
   "Tags": null,
   "Schema": 1,
   "HasAssets": true,
