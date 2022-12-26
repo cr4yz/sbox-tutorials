@@ -1,6 +1,8 @@
 # sbox-tutorials
 
-Click on a folder to find source code and a link to a tutorial video
+All tutorial videos can be found on my [YouTube channel](https://www.youtube.com/playlist?list=PLmk7ibDcqazdkdnPsLGe5KqYkAhZQw6rK) 
+
+Click on a folder to find source code and a link to that specific tutorial video
 
 ## Ideas and requests
 
